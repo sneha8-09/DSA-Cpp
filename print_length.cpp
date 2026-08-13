@@ -1,3 +1,5 @@
+// 3. **Take a word from the user and print its length.**
+
 #include <iostream>
 using namespace std;
 

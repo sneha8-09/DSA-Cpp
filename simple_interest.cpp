@@ -1,4 +1,6 @@
-// simple interest
+// 11. Simple Interest
+
+// Take Principal, Rate, and Time from the user and calculate Simple Interest and Total Amount.**
 
 #include <iostream>
 using namespace std;

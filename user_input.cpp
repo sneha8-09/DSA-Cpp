@@ -1,3 +1,6 @@
+// 1. **Take the user's first name and last name and print the full name.**
+// 2. **Take a name from the user and print a greeting message using that name.**
+
 #include <iostream>
 using namespace std;
 int main()

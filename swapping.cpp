@@ -1,4 +1,4 @@
-//**Take two numbers from the user and swap their values using a third variable.**
+// 7.**Take two numbers from the user and swap their values using a third variable.**
 
 #include <iostream>
 using namespace std;
