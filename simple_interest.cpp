@@ -7,12 +7,19 @@ using namespace std;
 
 int main()
 {
-  int p = 15374;
-  int r = 5;
-  int t = 3;
+  float p;
+  float r;
+  float t;
 
-  float si = (float)p * r * t / 100;
+  cout << "Enter principle amount :";
+  cin >> p;
+  cout << "Enter rate of interest :";
+  cin >> r;
+  cout << "Enter time :";
+  cin >> t;
+
+  float si = p * r * t / 100;
   cout << "simple interest : " << si << endl;
-
+  cout << "Total amount : " << p + si;
   return 0;
 }
